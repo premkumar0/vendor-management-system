@@ -13,8 +13,8 @@ Before you begin, make sure you have Python installed on your system. This proje
 Clone this repository to your local machine using git:
 
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
+git clone https://github.com/premkumar0/vendor-management-system.git
+cd vendor-management-system
 ```
 
 ### 2. Virtual Environment Setup
